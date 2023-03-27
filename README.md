@@ -1,7 +1,7 @@
  #### 1. One step to install naiveproxy
  
  ```
- wget https://raw.githubusercontent.com/zhoule/naiveproxy-installer/main/install_script.sh && chmod +x install_script.sh && ./install_script.sh
+ wget https://raw.githubusercontent.com/bytesmonster9/naiveproxy-installer/main/install_script.sh && chmod +x install_script.sh && ./install_script.sh
 
 ```
 
